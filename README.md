@@ -69,11 +69,8 @@ npm install
 MONGODB_URI=ссылка_на_базу
 PORT=4444
 ```
-4. В файле package.json добавляем строку в scripts:
-```bash
-"startdev": "nodemon index.js"
-```
-5. Запускаем проект:
+
+4. Запускаем проект:
 ```bash
 npm run startdev
 ```
